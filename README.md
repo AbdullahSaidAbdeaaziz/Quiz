@@ -1,17 +1,17 @@
 # Quiz app
 
-> ## To see result
+## To see result
 
 - clone repo
 
 ```bash
-git clone $REPOURL
+git clone https://github.com/AbdullahSaidAbdeaaziz/web.github.io
 ```
 
 - change to repo dircetory
 
 ```bash
-cd QuizAPP
+cd web.github.io
 ```
 
 - open **HTML** file in your favorite browser. I use `brave`
