@@ -1,0 +1,28 @@
+[
+    {
+        "title": "why we use <br> element ?",
+        "answer_1": "made text bold",
+        "answer_2": "made text italic",
+        "answer_3": "made newline ",
+        "answer_4": "made horizontal line",
+        "right_answer": "made newline"
+    },
+    {
+        "title": "why we use <hr> element ?",
+        "answer_1": "made text bold",
+        "answer_2": "made text italic",
+        "answer_3": "made newline ",
+        "answer_4": "made horizontal line",
+        "right_answer": "made horizontal line"
+    },
+    {
+        "title": "<h#> element how many number are there for #",
+        "answer_1": "# -> 1, 2, 3, 4, 5, 6",
+        "answer_2": "# -> 1, 2, 3 ",
+        "answer_3": "# -> 1, 2, 4, 5 ",
+        "answer_4": "# -> 1, 2",
+        "right_answer": "# -> 1, 2, 3, 4, 5, 6"
+    } 
+
+
+]
